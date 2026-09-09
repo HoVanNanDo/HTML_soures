@@ -1,0 +1,32 @@
+table {
+    margin: 0 auto;
+}
+th {
+    color: blue;
+    font-size: 25px;
+}
+td {
+    font-size: 14px;
+}
+tbody tr:nth-child(1) {
+    background-color: #ffe6e6;
+}
+
+tbody tr:nth-child(2) {
+    background-color: #e6f2ff;
+}
+
+tbody tr:nth-child(3) {
+    background-color: #e6ffe6;
+}
+tbody tr:nth-child(1):hover {
+    background-color: #ff9999;
+}
+
+tbody tr:nth-child(2):hover {
+    background-color: #80bfff;
+}
+
+tbody tr:nth-child(3):hover {
+    background-color: #80ff80;
+}
