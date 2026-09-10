@@ -1,0 +1,128 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f2f2f2;
+}
+
+header {
+    background-color: #2c3e50;
+    color: white;
+
+    padding: 20px;
+
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 0 15px 0;
+}
+
+nav a {
+    color: white;
+
+    text-decoration: none;
+
+    margin: 0 10px;
+
+    font-size: 16px;
+}
+
+nav a:hover {
+    color: #00bfff;
+}
+
+.home {
+    text-align: center;
+
+    padding: 100px 20px;
+}
+
+.home h2 {
+    color: #3498db;
+}
+
+.home h1 {
+    color: #2c3e50;
+}
+
+.home p {
+    font-size: 18px;
+
+    margin-bottom: 30px;
+}
+
+.button {
+    background-color: #3498db;
+
+    color: white;
+
+    text-decoration: none;
+
+    padding: 10px 20px;
+
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #2980b9;
+}
+
+.content {
+    width: 70%;
+
+    margin: 40px auto;
+
+    background-color: white;
+
+    padding: 30px;
+
+    border-radius: 10px;
+}
+
+.content h2 {
+    text-align: center;
+
+    color: #2c3e50;
+
+    margin-bottom: 30px;
+}
+
+.skill {
+    background-color: #ecf0f1;
+
+    padding: 15px;
+
+    margin-bottom: 15px;
+
+    border-left: 5px solid #3498db;
+}
+
+.skill h3 {
+    color: #2980b9;
+}
+
+.product {
+    background-color: #ecf0f1;
+
+    padding: 20px;
+
+    margin-bottom: 20px;
+
+    border-radius: 5px;
+}
+
+.product h3 {
+    color: #2980b9;
+}
+
+footer {
+    background-color: #2c3e50;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 15px;
+
+    margin-top: 30px;
+}
